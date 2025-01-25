@@ -1,0 +1,2 @@
+Each [[Dominoes|domino]] and [[Dices|dice]] can be made out of certain material. Each material can give benefits on scoring and sometimes restrict scoring in some way.
+Each [[Domino materials|domino]] and [[Dice materials|dice]] material list are on corresponding notes.

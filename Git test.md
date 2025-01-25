@@ -1,1 +1,0 @@
-This note was created to test git functionality. If everything works then afterwards this will be added in `.gitignore` so git would ignore this note
